@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **Released**: 2020.01.02
 
-**Commit Delta**: [Change from 0.0.1 release](https://github.com/plus3it/terraform-aws-tardigrade-kms/compare/0.0.1...0.0.2)
+**Commit Delta**: [Change from 0.0.1 release](https://github.com/MetroStar/terraform-aws-tardigrade-kms/compare/0.0.1...0.0.2)
 
 **Summary**:
 
@@ -18,7 +18,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **Released**: 2019.12.31
 
-**Commit Delta**: [Change from 0.0.0 release](https://github.com/plus3it/terraform-aws-tardigrade-kms/compare/0.0.0...0.0.1)
+**Commit Delta**: [Change from 0.0.0 release](https://github.com/MetroStar/terraform-aws-tardigrade-kms/compare/0.0.0...0.0.1)
 
 **Summary**:
 
